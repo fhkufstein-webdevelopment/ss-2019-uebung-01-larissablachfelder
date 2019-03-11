@@ -48,6 +48,7 @@ footer {
     padding-top:20px;
 }
 
+/*Aufgabe 3a*/
 .inner {
     width: 990px;
     margin-left: auto;
@@ -73,6 +74,8 @@ nav .level_2
     min-width: 150px;
     background: #ffffff;
 }
+
+/* 3c wann wird genau > hergenommen und nicht leerzeichen; bzw. wann sprech ich den tag an und wann benutze ich die klasse --> oft dasselbe ergebnis*/
 
 nav .level_1 > li
 {
